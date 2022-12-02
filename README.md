@@ -1,5 +1,3 @@
-# advent-of-code
+# [advent-of-code](https://adventofcode.com/)
 branch is the year
 
-
-## https://adventofcode.com/
