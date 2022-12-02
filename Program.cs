@@ -10,16 +10,17 @@ using System.Xml.Serialization; //Needed for XML Functionality
 using System.IO;
 using System.Xml.Linq; //Needed for XDocument
 
-namespace advent_of_code
+namespace avant_of_code
 {
     class Program
     {
         static void Main(string[] args)
         {
             
-            string[] lines = File.ReadAllLines("../../../Day01.txt");
+            string[] lines = File.ReadAllLines("../../../Day02.txt");
 
-            new Day01().CalorieCounting(lines);
+
+            new Day02().RockPaperScissors(lines);
 
 
         }

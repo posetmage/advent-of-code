@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace advent_of_code
+namespace avant_of_code
 {
     class Day01
     {
