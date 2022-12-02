@@ -19,11 +19,8 @@ namespace advent_of_code
             
             string[] lines = File.ReadAllLines("../../../Day01.txt");
 
-            var solution = new Day01();
-            
-            var output = solution.CalorieCounting01(lines);
+            new Day01().CalorieCounting(lines);
 
-            int x = 3;
 
         }
     }
