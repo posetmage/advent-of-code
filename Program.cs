@@ -17,10 +17,10 @@ namespace avant_of_code
         static void Main(string[] args)
         {
             
-            string[] lines = File.ReadAllLines("../../../Day02.txt");
+            string[] lines = File.ReadAllLines("../../../Day03.txt");
 
 
-            new Day02().RockPaperScissors(lines);
+            new Day03().RucksackReorganization(lines);
 
 
         }
